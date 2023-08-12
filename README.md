@@ -1,10 +1,11 @@
 # tournament-management-server
  To get started clone this repo and install dependencies.
- in env file paste your mongo_URL
+ in the env file paste your mongo_URL
 
 
-# Hit below api in postman to send request..
+# Hit the below API in Postman to send a request...
 
+#Replace http://localhost:3000.
 
 # api for particopants CRUD
 # 1) Create a new participant:
