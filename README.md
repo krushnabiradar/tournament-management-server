@@ -52,7 +52,7 @@ Replace {participantId} with the actual ID of the participant.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-5) Delete a participant by ID:
+# 5) Delete a participant by ID:
 
 Method: DELETE
 URL: http://localhost:3000/api/participants/{participantId}
